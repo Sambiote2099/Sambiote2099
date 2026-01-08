@@ -4,13 +4,13 @@
 
 ### 🧾 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Computer Science & Engineering at the Bangladesh University of Business and Technology.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Frontend & Backend Technologies, and Vibe Coding.\
-✍️ &nbsp;In my free time, I pursue creating small projects for myself, a little bit of gaming and posting memes on reddit.\
-💬 &nbsp;Feel free to reach out to me if you want a reliable and rad-looking web project made, or just for some interesting Conversation.\
-✉️ &nbsp;You can knock me at arifhasansameer@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé] --- for more details about me. I'm open to feedback and suggestions!
+● &nbsp;I like to explore new technologies and develop software solutions.\
+● &nbsp;I'm currently studying Computer Science & Engineering at the Bangladesh University of Business and Technology.\
+● &nbsp;I'm on track for learning more about Artificial Intelligence, Frontend & Backend Technologies, and Vibe Coding.\
+● &nbsp;In my free time, I pursue creating small projects for myself, a little bit of gaming and posting memes on reddit.\
+● &nbsp;Feel free to reach out to me if you want a reliable and rad-looking web project made, or just for some interesting Conversation.\
+● &nbsp;You can knock me at arifhasansameer@gmail.com I'll try to respond as soon as I can.\
+● &nbsp;Please have a look at my [Résumé] --- for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXYwMGs0cWwxcnY3bHh2NGdtcms4MXB1ODNoZ25pZ2lvbTg3dTlxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" align="right"/>
 
