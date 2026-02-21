@@ -46,36 +46,45 @@
 
 ---
 
-## 🏠 Dimension 2099 – Normal Online Products Shop  
+## 🛍️ Prodbyte – Online Products Shop  
 🔗 https://github.com/Sambiote2099/Dimension-2099 
 Tech: C++
 
-## 🏠 Dimension 2099 – Realtor App
-🔗 Backend: https://github.com/Sambiote2099/dwellup-backends  
+## 🏠 DwellUP – Realtor App
+🔗 Repository: https://github.com/Sambiote2099/dwellup-backends  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/268b30c0-76a5-4335-a8c6-3b8dd2325f36" width="30%" />
-  <img src="https://github.com/user-attachments/assets/53ad0817-85fe-4c49-93da-cb1a6c4267a3" width="30%" />
-  <img src="https://github.com/user-attachments/assets/de0a5ec9-c188-4288-b753-8a2219dc5ed9" width="30%" />
+  <img src="https://res.cloudinary.com/diasvvkil/image/upload/v1771669446/screenshot-1771669031205_kbccdq.png" width="30%" />
+  <img src="https://res.cloudinary.com/diasvvkil/image/upload/v1771669446/screenshot-1771669060312_mnekst.png" width="30%" />
+  <img src="https://res.cloudinary.com/diasvvkil/image/upload/v1771669446/screenshot-1771669089996_jmxkpv.png" width="30%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/23092a59-a52d-479e-b4b8-dd79eddd917d" width="30%" />
-  <img src="https://github.com/user-attachments/assets/86c4aa61-1ad2-4a90-9bfe-2dff32d0db73" width="30%" />
+  <img src="https://res.cloudinary.com/diasvvkil/image/upload/v1771669447/screenshot-1771669111318_slokiz.png" width="30%" />
+  <img src="https://res.cloudinary.com/diasvvkil/image/upload/v1771669458/screenshot-1771669216305_uy1ivo.png" width="30%" />
+  <img src="https://res.cloudinary.com/diasvvkil/image/upload/v1771669471/screenshot-1771669272902_dwhr3f.png" width="30%" />
 </p>
 
 Tech: Springboot • MySQL • REST APIs • • TypeScript • Cloudflare Deployment • Botpress AI Chatbot
 
 ---
 
-## 🛒 BreadVerse – E-Commerce App  
-🔗 https://github.com/Sambiote2099/BreadVerse  
+## 🥖 BreadVerse – Online Bread Shop  
+🔗 Repository: https://github.com/Sambiote2099/BreadVerse  
 🌍 Live: https://bread-verse.vercel.app/
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fc2a2961-7f81-4c81-ad80-b1aaff2ca139" width="30%" />
-  <img src="https://github.com/user-attachments/assets/5fff27ec-b490-47a0-b63a-99aa48ad6d4c" width="30%" />
-  <img src="https://github.com/user-attachments/assets/79d73ebf-82be-40fd-af73-813016136f34" width="30%" />
+  <img src="https://res.cloudinary.com/diasvvkil/image/upload/v1771670629/screenshot-1771669031206_xrhsnc.png" width="30%" />
+ 
+  <img src="https://res.cloudinary.com/diasvvkil/image/upload/v1771670629/screenshot-1771670494188_edvuih.png" width="30%" />
+   <img src="https://res.cloudinary.com/diasvvkil/image/upload/v1771670629/screenshot-1771670537431_hj0lbv.png" width="30%" />
+</p>
+
+<p align="center">
+   <img src="https://res.cloudinary.com/diasvvkil/image/upload/v1771670628/screenshot-1771670509874_wxeykj.png" width="30%" />
+  <img src="https://res.cloudinary.com/diasvvkil/image/upload/v1771670628/screenshot-1771670466061_qb19n8.png" width="30%" />
+ 
+  <img src="https://res.cloudinary.com/diasvvkil/image/upload/v1771670630/screenshot-1771670379822_svoxm1.png" width="30%" />
 </p>
 
 Tech: Next.js • MongoDB • OAuth • Vercel Deployment • Botpress AI Chatbot
