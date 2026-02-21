@@ -1,4 +1,4 @@
-![Arif Hasan Sameer](https://res.cloudinary.com/diasvvkil/image/upload/v1771654232/Screenshot_jgockw.png)
+![Arif Hasan Sameer](https://res.cloudinary.com/diasvvkil/image/upload/v1771654448/Picture2_iwwo6q.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40'/><h2>Hey 👋 there! I'm Arif Hasan Sameer</h2>
 
